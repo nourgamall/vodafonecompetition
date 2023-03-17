@@ -23,6 +23,7 @@ P {
   left: 20px;
   color:LightCoral;
   background-color:White;
+
 }
 h3 {
   font-size:20px;
@@ -40,4 +41,17 @@ h3 {
 position: sticky;
 right:200px;
 left:400px;
+}
+.navbar {
+  font-size:20px;
+}
+h4 {
+font-size: 70px;
+font-style: oblique;
+font-family: fantasy;
+}
+hr {
+  border-top: 10px solid;
+  border-radius: 10px;
+  color: Violet;
 }
