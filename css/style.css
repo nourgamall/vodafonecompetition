@@ -49,9 +49,31 @@ h4 {
 font-size: 70px;
 font-style: oblique;
 font-family: fantasy;
+text-align: center;
 }
 hr {
   border-top: 10px solid;
   border-radius: 10px;
   color: Violet;
+}
+.card-img-top  {
+  width: 50%;
+  height: 50%;
+  float: left;
+  position: sticky;
+}
+
+.btn-primary-center {
+  left: 300px;
+  background-color:Violet;
+  position: sticky;
+}
+.card-title {
+ font-size: 25px;
+}
+.card-group {
+  background-color: none;
+}
+.card-text {
+float: left;
 }
