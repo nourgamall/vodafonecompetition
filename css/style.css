@@ -20,13 +20,13 @@ P {
   right:50px;
 }
 .fa-instagram {
-  background: #125688;
-  color: white;
-  font-size: 75px;
   position: sticky;
   left: 20px;
   color:LightCoral;
-  background-color:White;
+  background-color:none;
+  font-size: 75px;
+  text-align: center;
+
 
 }
 h3 {
@@ -36,18 +36,20 @@ h3 {
 .carousel {
   width:1000px;
   height:10%;
-  position: static;
+  position: sticky;
   right: 200px;
-  left: 1000px
+  left: 300px
   bottom: 100px;
+  align-content: center;
 }
 .img2 {
 position: sticky;
 right:200px;
 left:400px;
 }
-.navbar {
+.navigation-bar1 {
   font-size:20px;
+  background-color: Violet;
 }
 h4 {
 font-size: 70px;
@@ -87,7 +89,8 @@ align-content: center;
   position: sticky;
   left: 20px;
   color:LightCoral;
-  background-color:White;
+  background-color:none;
+  border radius: 50%;
 }
 .form-group {
   font-size: 25px;
