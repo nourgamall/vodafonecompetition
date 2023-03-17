@@ -2,6 +2,10 @@ h1 {
   text-align: center;
   font-family:cursive;
 }
+h2 {
+  font-family: cursive;
+  font-size: 35px;
+}
 body {
   background-image: url(../imgs/light.jpg);
   background-repeat: repeat;
@@ -87,4 +91,26 @@ align-content: center;
 }
 .form-group {
   font-size: 25px;
+  margin-top: 50px;
+ margin-bottom: 50px;
+ margin-right: 150px;
+ margin-left: 80px;
+}
+h6 {
+  font-family: monospace;
+  font-size: 40px;
+  font-style: oblique;
+  margin-left: 30px;
+}
+.form-check {
+ margin-top: 50px;
+ margin-bottom: 50px;
+ margin-right: 150px;
+ margin-left: 80px;
+}
+.button{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
