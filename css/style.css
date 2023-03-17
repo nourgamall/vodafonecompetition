@@ -3,5 +3,24 @@ h1 {
   font-family:cursive;
 }
 body {
-  background-color: MediumSeaGreen;
+  background-image: url(../imgs/light.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+P {
+  text-indent: 50px;
+}
+img {
+  position: fixed;
+  top: 100px;
+  right: 50px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  font-size: 75px;
+  position: fixed;
+  left: 20px;
+  color:LightCoral;
+  background-color:White;
 }
