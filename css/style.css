@@ -57,7 +57,7 @@ hr {
   color: Violet;
 }
 .card-img-top  {
-  width: 50%;
+  width: 100%;
   height: 50%;
   float: left;
   position: sticky;
@@ -71,9 +71,20 @@ hr {
 .card-title {
  font-size: 25px;
 }
-.card-group {
-  background-color: none;
-}
+
 .card-text {
 float: left;
+}
+.btn-Primary {
+align-content: center;
+}
+.fa-facebook {
+  font-size: 75px;
+  position: sticky;
+  left: 20px;
+  color:LightCoral;
+  background-color:White;
+}
+.form-group {
+  font-size: 25px;
 }
