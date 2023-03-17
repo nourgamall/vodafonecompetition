@@ -10,7 +10,7 @@ body {
 P {
   text-indent: 50px;
 }
-img {
+.img1 {
   position: fixed;
   top: 100px;
   right: 50px;
@@ -23,4 +23,21 @@ img {
   left: 20px;
   color:LightCoral;
   background-color:White;
+}
+h3 {
+  font-size:20px;
+  font-family: cursive;
+}
+.carousel {
+  width:800px;
+  height:20%;
+  position: fixed;
+  right: 200px;
+  left: 200px
+  bottom: 100px;
+}
+.img2 {
+position: sticky;
+right:200px;
+left:400px;
 }
